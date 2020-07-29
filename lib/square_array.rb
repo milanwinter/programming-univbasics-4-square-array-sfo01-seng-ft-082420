@@ -5,5 +5,5 @@ def square_array array
     new_array << array[i] * array[i]
     i += 1
   end
-  puts new_array
+  new_array
 end
